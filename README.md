@@ -1,2 +1,2 @@
 # example-virus
-example virus (он не вредит системе)
+example virus (Пробуйте на страх и риск!)
